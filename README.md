@@ -1,2 +1,3 @@
-# MenuUI-HituilaHuy
-MenuUI v1.0.0 - PluginBase
+# MenuAutoUI-HituilaHuy
+MenuAutoUI v1.0.0
+Cần Thêm: AutoFeed, AutoSell
